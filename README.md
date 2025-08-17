@@ -4,13 +4,18 @@ A 8 key macropad with a rotary ecnoder. Uses KMK firmware.
 # cad
 Has a top cover and the bottom case for the circuit board and pieces.
 Made with Fusion.
-<img width="955" height="711" alt="image" src="https://github.com/user-attachments/assets/4f8d686c-9fe2-4afc-b9d0-ef517095676e" />
-<img width="911" height="558" alt="image" src="https://github.com/user-attachments/assets/ec00711b-ac41-44ac-9eea-8e0303bf5e59" />
-<img width="911" height="616" alt="image" src="https://github.com/user-attachments/assets/07223cd0-4f6a-45df-901d-7ef8ab99cf19" />
+<img width="536" height="667" alt="image" src="https://github.com/user-attachments/assets/fc11fbe6-f486-42c4-86c2-5ac03e10e2e1" />
+<img width="1073" height="494" alt="image" src="https://github.com/user-attachments/assets/4d622616-0192-46b6-858d-b09896442d38" />
+<img width="1020" height="531" alt="image" src="https://github.com/user-attachments/assets/3b0b8b30-6a94-4417-9414-0c608d96baa2" />
+
+
+
 
 
 # pcb
 Pictures of the schematic and the pcb. (made in kicad)
+
+<img width="333" height="451" alt="image" src="https://github.com/user-attachments/assets/a773b1a9-0055-49b4-a12e-8ed9eadf41c3" />
 
 <img width="365" height="471" alt="image" src="https://github.com/user-attachments/assets/83527fc2-1426-4277-89d0-a73ca3842954" />
 <img width="737" height="420" alt="image" src="https://github.com/user-attachments/assets/6ba1b7e5-500e-4f49-a85e-9794bb74ea2a" />
